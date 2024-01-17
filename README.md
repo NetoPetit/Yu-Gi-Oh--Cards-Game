@@ -1,4 +1,4 @@
-# Yu-Gi-Oh! Jo-Ken-Po
+# Yu-Gi-Oh! Jo-Ken-Po Game
 
 Projeto onde desenvolvo um jogo de jo-quen-po com a temática do Yu-Gi-Oh! utilizando HTML, CSS e JavaScript com manipulação de DOM.
 
@@ -17,7 +17,7 @@ Bem-vindo ao **Yu-Gi-Oh! Jo-Ken-Po**! Neste repositório, você encontrará um d
 
 ### Como Jogar
 
-Acesse o link  no seu navegador web, ou siga as seguintes etapas:
+Acesse o link https://netopetit.github.io/Yu-Gi-Oh-Jo-Ken-Po-Game/ no seu navegador web, ou siga as seguintes etapas:
 
 1. Clone este repositório para sua máquina local.
 2. Abra o arquivo `index.html` em seu navegador web.
